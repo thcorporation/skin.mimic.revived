@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
-  id="skin.mimic"
+  id="skin.mimicrevived"
   version="6.0.0"
-  name="Mimic"
-  provider-name="braz">
+  name="Mimic Revived"
+  provider-name="Team Th">
     <requires>
         <import addon="xbmc.gui" version="5.17.0"/>
         <import addon="resource.images.studios.white" version="0.0.4"/>
